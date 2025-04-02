@@ -3,11 +3,12 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:converters="clr-namespace:Tema2MemoryGame.Converters"
         Title="Login" Height="450" Width="700"
+         Background="#FFF4A78E"
         WindowStartupLocation="CenterScreen">
 	<Window.Resources>
 		<converters:StringToVisibilityConverter x:Key="StringToVisibilityConverter"/>
 	</Window.Resources>
-	<Grid Margin="10" Background="#FFEDCDBB">
+    <Grid Margin="10" Background="#FFF4A78E">
 		<Grid.RowDefinitions>
 			<RowDefinition Height="Auto"/>
 			<RowDefinition Height="*"/>
@@ -17,7 +18,7 @@
 		<!-- Welcome Message -->
 		<TextBlock Text="Welcome to Memory Game"
                    FontSize="24" FontWeight="Bold"
-                   HorizontalAlignment="Center" Margin="0,0,0,20"/>
+                   HorizontalAlignment="Center" Margin="0,0,0,20" Foreground="#FFF9F6F6"/>
 
 		<!-- Main Content -->
 		<Grid Grid.Row="1">
@@ -28,34 +29,34 @@
 
 			<!-- Left Side - Users List and New User Input -->
 			<StackPanel Grid.Column="0" Margin="0,0,10,0">
-				<TextBlock Text="Select Player:" FontWeight="Bold" Margin="0,0,0,5"/>
+				<TextBlock Text="Users" FontWeight="Bold" Margin="0,0,0,5" Foreground="#FFF9F6F6"/>
 				<ListBox ItemsSource="{Binding Users}"
                          DisplayMemberPath="Username"
                          SelectedItem="{Binding SelectedUser}"
-                         Height="200" Margin="0,0,0,10" Background="#FFF4A78E"/>
+                         Height="200" Margin="0,0,0,10" Background="#FFEDCDBB"/>
 
 				<!-- New User Input Section -->
 				<StackPanel>
-					<TextBlock Text="Create New Player:" FontWeight="Bold" Margin="0,0,0,5"/>
+                    <TextBlock Text="Enter Name For New User" FontWeight="Bold" Margin="0,0,0,5" Foreground="#FFF9F6F6"/>
 					<TextBox Text="{Binding NewUsername, UpdateSourceTrigger=PropertyChanged}"
                              Margin="0,0,0,5"
-                             Padding="5" Background="#FFDC9676"/>
+                             Padding="5" Background="#FFEDCDBB"/>
 				</StackPanel>
 			</StackPanel>
 
 			<!-- Right Side - Avatar -->
 			<StackPanel Grid.Column="1" HorizontalAlignment="Center">
-				<TextBlock Text="Player Avatar:" FontWeight="Bold" Margin="0,0,0,5"/>
-				<Image Source="{Binding SelectedUser.AvatarPath}"
+                <Image Source="{Binding SelectedUser.AvatarPath}"
                        Height="150" Width="150"
-                       Margin="0,0,0,10"/>
+                       Margin="0,30,0,5"/>
 
 				<StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
 					<Button Content="&lt;&lt;" Width="40"
                             Command="{Binding PreviousAvatarCommand}"
-                            Margin="0,0,10,0"/>
+                            Margin="8,30,10,0"/>
 					<Button Content="&gt;&gt;" Width="40"
-                            Command="{Binding NextAvatarCommand}"/>
+                            Command="{Binding NextAvatarCommand}"
+                            Margin="5,30,10,0"/>
 				</StackPanel>
 			</StackPanel>
 		</Grid>

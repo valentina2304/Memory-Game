@@ -1,0 +1,60 @@
+{
+  "PlayerName": "Vali",
+  "Category": 2,
+  "Rows": 2,
+  "Columns": 3,
+  "TotalTime": 60,
+  "RemainingTime": 50,
+  "SavedAt": "2025-04-05T00:26:36.1874322+03:00",
+  "IsCompleted": false,
+  "Cards": [
+    {
+      "Id": 4,
+      "Value": 2,
+      "ImagePath": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\MemoryGame\\bin\\Debug\\net8.0-windows\\Resources\\Food\\Food11.png",
+      "IsFlipped": true,
+      "IsMatched": true,
+      "Position": 0
+    },
+    {
+      "Id": 2,
+      "Value": 1,
+      "ImagePath": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\MemoryGame\\bin\\Debug\\net8.0-windows\\Resources\\Food\\Food10.png",
+      "IsFlipped": false,
+      "IsMatched": false,
+      "Position": 1
+    },
+    {
+      "Id": 0,
+      "Value": 0,
+      "ImagePath": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\MemoryGame\\bin\\Debug\\net8.0-windows\\Resources\\Food\\Food1.png",
+      "IsFlipped": false,
+      "IsMatched": false,
+      "Position": 2
+    },
+    {
+      "Id": 1,
+      "Value": 0,
+      "ImagePath": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\MemoryGame\\bin\\Debug\\net8.0-windows\\Resources\\Food\\Food1.png",
+      "IsFlipped": false,
+      "IsMatched": false,
+      "Position": 3
+    },
+    {
+      "Id": 3,
+      "Value": 1,
+      "ImagePath": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\MemoryGame\\bin\\Debug\\net8.0-windows\\Resources\\Food\\Food10.png",
+      "IsFlipped": false,
+      "IsMatched": false,
+      "Position": 4
+    },
+    {
+      "Id": 5,
+      "Value": 2,
+      "ImagePath": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\MemoryGame\\bin\\Debug\\net8.0-windows\\Resources\\Food\\Food11.png",
+      "IsFlipped": true,
+      "IsMatched": true,
+      "Position": 5
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+﻿<Window x:Class="MemoryGame.Views.OpenGameDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:converters="clr-namespace:MemoryGame.Converters"
+        Title="Open Saved Game" Height="400" Width="500"
+        WindowStartupLocation="CenterOwner"
+        Background="#FFD4C3F4">
+    <Window.Resources>
+        <converters:NullToBoolConverter x:Key="NullToBoolConverter" />
+    </Window.Resources>
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" 
+                   Text="Select a saved game to open:" 
+                   FontSize="16" 
+                   FontWeight="Bold" 
+                   Foreground="#FF8867C6" 
+                   Margin="0,0,0,10"/>
+
+        <ListView Grid.Row="1" 
+                  x:Name="SavedGamesList"
+                  ItemsSource="{Binding SavedGames}"
+                  SelectedItem="{Binding SelectedGame, Mode=TwoWay}"
+                  Background="LavenderBlush"
+                  BorderBrush="#FF8867C6"
+                  Margin="0,5"
+                  SelectionMode="Single">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Player" Width="90" DisplayMemberBinding="{Binding PlayerName}"/>
+                    <GridViewColumn Header="Date" Width="120" DisplayMemberBinding="{Binding SavedAt, StringFormat={}{0:dd/MM/yyyy HH:mm}}"/>
+                    <GridViewColumn Header="Mode" Width="60" DisplayMemberBinding="{Binding GameMode}"/>
+                    <GridViewColumn Header="Board" Width="50">
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate>
+                                <TextBlock>
+                                    <TextBlock.Text>
+                                        <MultiBinding StringFormat="{}{0}x{1}">
+                                            <Binding Path="Rows"/>
+                                            <Binding Path="Columns"/>
+                                        </MultiBinding>
+                                    </TextBlock.Text>
+                                </TextBlock>
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                    <GridViewColumn Header="Total Time" Width="65" DisplayMemberBinding="{Binding TotalTime, StringFormat={}{0} sec}"/>
+                    <GridViewColumn Header="Time Left" Width="65" DisplayMemberBinding="{Binding RemainingTime, StringFormat={}{0} sec}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <StackPanel Grid.Row="2" 
+                    Orientation="Horizontal" 
+                    HorizontalAlignment="Right" 
+                    Margin="0,10,0,0">
+            <Button Content="Delete" 
+                    Width="80" 
+                    Height="30" 
+                    Margin="0,0,10,0"
+                    Background="LavenderBlush"
+                    Foreground="#FF8867C6"
+                    BorderBrush="#FF8867C6"
+                    Command="{Binding DeleteGameCommand}"/>
+
+            <Button Content="Open" 
+                    Width="80" 
+                    Height="30" 
+                    Margin="0,0,10,0"
+                    Background="LavenderBlush"
+                    Foreground="#FF8867C6"
+                    BorderBrush="#FF8867C6"
+                    Command="{Binding OpenGameCommand}"/>
+
+            <Button Content="Cancel" 
+                    Width="80" 
+                    Height="30"
+                    Background="LavenderBlush"
+                    Foreground="#FF8867C6"
+                    BorderBrush="#FF8867C6"
+                    Command="{Binding CancelCommand}"/>
+        </StackPanel>
+    </Grid>
+</Window>

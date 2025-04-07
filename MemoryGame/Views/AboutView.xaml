@@ -1,0 +1,67 @@
+﻿<Window x:Class="MemoryGame.Views.AboutView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="About" Height="380" Width="460"
+        WindowStartupLocation="CenterOwner"
+        Background="#FFD4C3F4">
+
+    <Window.Resources>
+        <Style x:Key="LinkTextBlockStyle" TargetType="TextBlock">
+            <Setter Property="Foreground" Value="Blue"/>
+            <Setter Property="TextDecorations" Value="Underline"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Foreground" Value="DarkBlue"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+
+    <Border CornerRadius="10" Padding="20" Background="White" BorderBrush="#FF8867C6" BorderThickness="2" Margin="20">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <!-- Titlu -->
+            <TextBlock Text="Memory Game"
+                       Grid.Row="0"
+                       FontSize="22"
+                       FontWeight="Bold"
+                       Foreground="#FF8867C6"
+                       HorizontalAlignment="Center"
+                       Margin="0,0,0,15"/>
+
+            <!-- Informații -->
+            <StackPanel Grid.Row="1" VerticalAlignment="Top">
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                    <TextBlock Text="Student: " FontWeight="Bold" Foreground="#FF8867C6" Width="100"/>
+                    <TextBlock Text="Lixandru Valentina-Mariana" Foreground="#FF220B53"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                    <TextBlock Text="Email: " FontWeight="Bold" Foreground="#FF8867C6" Width="100"/>
+                    <TextBlock x:Name="EmailLink"
+                               Text="valentina.lixandru@student.unitbv.ro"
+                               Style="{StaticResource LinkTextBlockStyle}"
+                               MouseLeftButtonDown="EmailLink_MouseLeftButtonDown"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                    <TextBlock Text="Grupă: " FontWeight="Bold" Foreground="#FF8867C6" Width="100"/>
+                    <TextBlock Text="10LF332" Foreground="#FF220B53"/>
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Specializare: " FontWeight="Bold" Foreground="#FF8867C6" Width="100"/>
+                    <TextBlock Text="Informatică Aplicată" Foreground="#FF220B53"/>
+                </StackPanel>
+            </StackPanel>
+        </Grid>
+    </Border>
+</Window>

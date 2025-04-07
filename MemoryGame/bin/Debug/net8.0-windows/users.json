@@ -1,0 +1,20 @@
+[
+  {
+    "Username": "Vali",
+    "ImagePath": "Resources\\Avatars\\Avatar4.png",
+    "GamesPlayed": 1,
+    "GamesWon": 1
+  },
+  {
+    "Username": "Adi",
+    "ImagePath": "Resources\\Avatars\\Avatar10.png",
+    "GamesPlayed": 1,
+    "GamesWon": 0
+  },
+  {
+    "Username": "Bubu",
+    "ImagePath": "Resources\\Avatars\\Avatar6.png",
+    "GamesPlayed": 2,
+    "GamesWon": 1
+  }
+]

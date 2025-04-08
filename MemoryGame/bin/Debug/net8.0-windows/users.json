@@ -1,20 +1,32 @@
 [
   {
-    "Username": "Vali",
-    "ImagePath": "Resources\\Avatars\\Avatar4.png",
+    "Username": "Adi",
+    "ImagePath": "Resources\\Avatars\\Avatar10.png",
+    "GamesPlayed": 3,
+    "GamesWon": 2
+  },
+  {
+    "Username": "Mara",
+    "ImagePath": "Resources\\Avatars\\Avatar3.png",
     "GamesPlayed": 1,
     "GamesWon": 1
   },
   {
-    "Username": "Adi",
-    "ImagePath": "Resources\\Avatars\\Avatar10.png",
+    "Username": "Eliza",
+    "ImagePath": "Resources\\Avatars\\Avatar7.png",
     "GamesPlayed": 1,
+    "GamesWon": 1
+  },
+  {
+    "Username": "Mihai",
+    "ImagePath": "Resources\\Avatars\\Avatar2.png",
+    "GamesPlayed": 0,
     "GamesWon": 0
   },
   {
-    "Username": "Bubu",
-    "ImagePath": "Resources\\Avatars\\Avatar6.png",
-    "GamesPlayed": 2,
-    "GamesWon": 1
+    "Username": "Denisa",
+    "ImagePath": "Resources\\Avatars\\Avatar4.png",
+    "GamesPlayed": 0,
+    "GamesWon": 0
   }
 ]

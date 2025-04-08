@@ -98,3 +98,37 @@ C:\Users\40720\OneDrive\Desktop\FACULTATE\AN II\SEM II\MemoryGame\obj\Debug\net8
 C:\Users\40720\OneDrive\Desktop\FACULTATE\AN II\SEM II\MemoryGame\obj\Debug\net8.0-windows\MemoryGame.pdb
 C:\Users\40720\OneDrive\Desktop\FACULTATE\AN II\SEM II\MemoryGame\obj\Debug\net8.0-windows\MemoryGame.genruntimeconfig.cache
 C:\Users\40720\OneDrive\Desktop\FACULTATE\AN II\SEM II\MemoryGame\obj\Debug\net8.0-windows\ref\MemoryGame.dll
+C:\Users\40720\OneDrive\Desktop\FACULTATE\AN II\SEM II\Medii Vizuale de Programare\Memory-Game\MemoryGame\bin\Debug\net8.0-windows\MemoryGame.exe
+C:\Users\40720\OneDrive\Desktop\FACULTATE\AN II\SEM II\Medii Vizuale de Programare\Memory-Game\MemoryGame\bin\Debug\net8.0-windows\MemoryGame.deps.json
+C:\Users\40720\OneDrive\Desktop\FACULTATE\AN II\SEM II\Medii Vizuale de Programare\Memory-Game\MemoryGame\bin\Debug\net8.0-windows\MemoryGame.runtimeconfig.json
+C:\Users\40720\OneDrive\Desktop\FACULTATE\AN II\SEM II\Medii Vizuale de Programare\Memory-Game\MemoryGame\bin\Debug\net8.0-windows\MemoryGame.dll
+C:\Users\40720\OneDrive\Desktop\FACULTATE\AN II\SEM II\Medii Vizuale de Programare\Memory-Game\MemoryGame\bin\Debug\net8.0-windows\MemoryGame.pdb
+C:\Users\40720\OneDrive\Desktop\FACULTATE\AN II\SEM II\Medii Vizuale de Programare\Memory-Game\MemoryGame\obj\Debug\net8.0-windows\Views\AboutView.baml
+C:\Users\40720\OneDrive\Desktop\FACULTATE\AN II\SEM II\Medii Vizuale de Programare\Memory-Game\MemoryGame\obj\Debug\net8.0-windows\Views\AboutView.g.cs
+C:\Users\40720\OneDrive\Desktop\FACULTATE\AN II\SEM II\Medii Vizuale de Programare\Memory-Game\MemoryGame\obj\Debug\net8.0-windows\Views\GameBoardView.g.cs
+C:\Users\40720\OneDrive\Desktop\FACULTATE\AN II\SEM II\Medii Vizuale de Programare\Memory-Game\MemoryGame\obj\Debug\net8.0-windows\Views\GameView.g.cs
+C:\Users\40720\OneDrive\Desktop\FACULTATE\AN II\SEM II\Medii Vizuale de Programare\Memory-Game\MemoryGame\obj\Debug\net8.0-windows\Views\LoginView.g.cs
+C:\Users\40720\OneDrive\Desktop\FACULTATE\AN II\SEM II\Medii Vizuale de Programare\Memory-Game\MemoryGame\obj\Debug\net8.0-windows\Views\MainWindow.g.cs
+C:\Users\40720\OneDrive\Desktop\FACULTATE\AN II\SEM II\Medii Vizuale de Programare\Memory-Game\MemoryGame\obj\Debug\net8.0-windows\Views\OpenGameDialog.g.cs
+C:\Users\40720\OneDrive\Desktop\FACULTATE\AN II\SEM II\Medii Vizuale de Programare\Memory-Game\MemoryGame\obj\Debug\net8.0-windows\Views\StatisticsView.g.cs
+C:\Users\40720\OneDrive\Desktop\FACULTATE\AN II\SEM II\Medii Vizuale de Programare\Memory-Game\MemoryGame\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\40720\OneDrive\Desktop\FACULTATE\AN II\SEM II\Medii Vizuale de Programare\Memory-Game\MemoryGame\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\40720\OneDrive\Desktop\FACULTATE\AN II\SEM II\Medii Vizuale de Programare\Memory-Game\MemoryGame\obj\Debug\net8.0-windows\MemoryGame_MarkupCompile.cache
+C:\Users\40720\OneDrive\Desktop\FACULTATE\AN II\SEM II\Medii Vizuale de Programare\Memory-Game\MemoryGame\obj\Debug\net8.0-windows\MemoryGame_MarkupCompile.lref
+C:\Users\40720\OneDrive\Desktop\FACULTATE\AN II\SEM II\Medii Vizuale de Programare\Memory-Game\MemoryGame\obj\Debug\net8.0-windows\Views\GameBoardView.baml
+C:\Users\40720\OneDrive\Desktop\FACULTATE\AN II\SEM II\Medii Vizuale de Programare\Memory-Game\MemoryGame\obj\Debug\net8.0-windows\Views\GameView.baml
+C:\Users\40720\OneDrive\Desktop\FACULTATE\AN II\SEM II\Medii Vizuale de Programare\Memory-Game\MemoryGame\obj\Debug\net8.0-windows\Views\LoginView.baml
+C:\Users\40720\OneDrive\Desktop\FACULTATE\AN II\SEM II\Medii Vizuale de Programare\Memory-Game\MemoryGame\obj\Debug\net8.0-windows\Views\MainWindow.baml
+C:\Users\40720\OneDrive\Desktop\FACULTATE\AN II\SEM II\Medii Vizuale de Programare\Memory-Game\MemoryGame\obj\Debug\net8.0-windows\Views\OpenGameDialog.baml
+C:\Users\40720\OneDrive\Desktop\FACULTATE\AN II\SEM II\Medii Vizuale de Programare\Memory-Game\MemoryGame\obj\Debug\net8.0-windows\Views\StatisticsView.baml
+C:\Users\40720\OneDrive\Desktop\FACULTATE\AN II\SEM II\Medii Vizuale de Programare\Memory-Game\MemoryGame\obj\Debug\net8.0-windows\MemoryGame.g.resources
+C:\Users\40720\OneDrive\Desktop\FACULTATE\AN II\SEM II\Medii Vizuale de Programare\Memory-Game\MemoryGame\obj\Debug\net8.0-windows\MemoryGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\40720\OneDrive\Desktop\FACULTATE\AN II\SEM II\Medii Vizuale de Programare\Memory-Game\MemoryGame\obj\Debug\net8.0-windows\MemoryGame.AssemblyInfoInputs.cache
+C:\Users\40720\OneDrive\Desktop\FACULTATE\AN II\SEM II\Medii Vizuale de Programare\Memory-Game\MemoryGame\obj\Debug\net8.0-windows\MemoryGame.AssemblyInfo.cs
+C:\Users\40720\OneDrive\Desktop\FACULTATE\AN II\SEM II\Medii Vizuale de Programare\Memory-Game\MemoryGame\obj\Debug\net8.0-windows\MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\40720\OneDrive\Desktop\FACULTATE\AN II\SEM II\Medii Vizuale de Programare\Memory-Game\MemoryGame\obj\Debug\net8.0-windows\MemoryGame.sourcelink.json
+C:\Users\40720\OneDrive\Desktop\FACULTATE\AN II\SEM II\Medii Vizuale de Programare\Memory-Game\MemoryGame\obj\Debug\net8.0-windows\MemoryGame.dll
+C:\Users\40720\OneDrive\Desktop\FACULTATE\AN II\SEM II\Medii Vizuale de Programare\Memory-Game\MemoryGame\obj\Debug\net8.0-windows\refint\MemoryGame.dll
+C:\Users\40720\OneDrive\Desktop\FACULTATE\AN II\SEM II\Medii Vizuale de Programare\Memory-Game\MemoryGame\obj\Debug\net8.0-windows\MemoryGame.pdb
+C:\Users\40720\OneDrive\Desktop\FACULTATE\AN II\SEM II\Medii Vizuale de Programare\Memory-Game\MemoryGame\obj\Debug\net8.0-windows\MemoryGame.genruntimeconfig.cache
+C:\Users\40720\OneDrive\Desktop\FACULTATE\AN II\SEM II\Medii Vizuale de Programare\Memory-Game\MemoryGame\obj\Debug\net8.0-windows\ref\MemoryGame.dll

@@ -1,0 +1,108 @@
+{
+  "PlayerName": "Denisa",
+  "Category": 2,
+  "Rows": 3,
+  "Columns": 4,
+  "TotalTime": 60,
+  "RemainingTime": 4,
+  "SavedAt": "2025-04-08T13:11:41.9666238+03:00",
+  "IsCompleted": false,
+  "Cards": [
+    {
+      "Id": 0,
+      "Value": 0,
+      "ImagePath": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\bin\\Debug\\net8.0-windows\\Resources\\Food\\Food1.png",
+      "IsFlipped": false,
+      "IsMatched": false,
+      "Position": 0
+    },
+    {
+      "Id": 10,
+      "Value": 5,
+      "ImagePath": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\bin\\Debug\\net8.0-windows\\Resources\\Food\\Food14.png",
+      "IsFlipped": false,
+      "IsMatched": false,
+      "Position": 1
+    },
+    {
+      "Id": 4,
+      "Value": 2,
+      "ImagePath": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\bin\\Debug\\net8.0-windows\\Resources\\Food\\Food11.png",
+      "IsFlipped": true,
+      "IsMatched": true,
+      "Position": 2
+    },
+    {
+      "Id": 8,
+      "Value": 4,
+      "ImagePath": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\bin\\Debug\\net8.0-windows\\Resources\\Food\\Food13.png",
+      "IsFlipped": true,
+      "IsMatched": true,
+      "Position": 3
+    },
+    {
+      "Id": 5,
+      "Value": 2,
+      "ImagePath": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\bin\\Debug\\net8.0-windows\\Resources\\Food\\Food11.png",
+      "IsFlipped": true,
+      "IsMatched": true,
+      "Position": 4
+    },
+    {
+      "Id": 6,
+      "Value": 3,
+      "ImagePath": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\bin\\Debug\\net8.0-windows\\Resources\\Food\\Food12.png",
+      "IsFlipped": true,
+      "IsMatched": true,
+      "Position": 5
+    },
+    {
+      "Id": 9,
+      "Value": 4,
+      "ImagePath": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\bin\\Debug\\net8.0-windows\\Resources\\Food\\Food13.png",
+      "IsFlipped": true,
+      "IsMatched": true,
+      "Position": 6
+    },
+    {
+      "Id": 7,
+      "Value": 3,
+      "ImagePath": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\bin\\Debug\\net8.0-windows\\Resources\\Food\\Food12.png",
+      "IsFlipped": true,
+      "IsMatched": true,
+      "Position": 7
+    },
+    {
+      "Id": 11,
+      "Value": 5,
+      "ImagePath": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\bin\\Debug\\net8.0-windows\\Resources\\Food\\Food14.png",
+      "IsFlipped": false,
+      "IsMatched": false,
+      "Position": 8
+    },
+    {
+      "Id": 3,
+      "Value": 1,
+      "ImagePath": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\bin\\Debug\\net8.0-windows\\Resources\\Food\\Food10.png",
+      "IsFlipped": true,
+      "IsMatched": true,
+      "Position": 9
+    },
+    {
+      "Id": 1,
+      "Value": 0,
+      "ImagePath": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\bin\\Debug\\net8.0-windows\\Resources\\Food\\Food1.png",
+      "IsFlipped": false,
+      "IsMatched": false,
+      "Position": 10
+    },
+    {
+      "Id": 2,
+      "Value": 1,
+      "ImagePath": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\bin\\Debug\\net8.0-windows\\Resources\\Food\\Food10.png",
+      "IsFlipped": true,
+      "IsMatched": true,
+      "Position": 11
+    }
+  ]
+}

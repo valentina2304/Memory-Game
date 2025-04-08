@@ -71,7 +71,6 @@ namespace MemoryGame.ViewModels
 
                         if (gameState != null && !gameState.IsCompleted)
                         {
-                            // Verificăm dacă jocul aparține utilizatorului curent
                             if (gameState.PlayerName == _currentPlayer.Username)
                             {
                                 gameState.FilePath = file;
@@ -81,12 +80,10 @@ namespace MemoryGame.ViewModels
                     }
                     catch (Exception)
                     {
-                        // Ignorăm fișierele care nu pot fi deserializate
                     }
                 }
             }
 
-            // Sortăm jocurile după data salvării
             var sortedGames = SavedGames.OrderByDescending(g => g.SavedAt).ToList();
             SavedGames.Clear();
 
@@ -117,10 +114,8 @@ namespace MemoryGame.ViewModels
             {
                 try
                 {
-                    // Ștergem fișierul de pe disc
                     File.Delete(SelectedGame.FilePath);
 
-                    // Eliminăm jocul din lista afișată
                     SavedGames.Remove(SelectedGame);
 
                     MessageBox.Show("Jocul salvat a fost șters cu succes.",
@@ -140,17 +135,14 @@ namespace MemoryGame.ViewModels
 
         private void OpenGame(object parameter)
         {
-            // Închide dialogul cu rezultat true (se va deschide jocul selectat)
             RequestClose?.Invoke(true);
         }
 
         private void Cancel(object parameter)
         {
-            // Închide dialogul cu rezultat false
             RequestClose?.Invoke(false);
         }
 
-        // Eveniment pentru a semnala închiderea dialogului
         public event Action<bool> RequestClose;
 
         public void RefreshGamesList()

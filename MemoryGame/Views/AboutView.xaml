@@ -28,7 +28,6 @@
                 <RowDefinition Height="*"/>
             </Grid.RowDefinitions>
 
-            <!-- Titlu -->
             <TextBlock Text="Memory Game"
                        Grid.Row="0"
                        FontSize="22"
@@ -37,7 +36,6 @@
                        HorizontalAlignment="Center"
                        Margin="0,0,0,15"/>
 
-            <!-- Informații -->
             <StackPanel Grid.Row="1" VerticalAlignment="Top">
                 <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
                     <TextBlock Text="Student: " FontWeight="Bold" Foreground="#FF8867C6" Width="100"/>

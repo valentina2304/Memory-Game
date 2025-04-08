@@ -42,10 +42,10 @@
                             </DataTemplate>
                         </GridViewColumn.CellTemplate>
                     </GridViewColumn>
-                    <GridViewColumn Header="Nume Utilizator" Width="150" DisplayMemberBinding="{Binding Username}"/>
-                    <GridViewColumn Header="Jocuri Jucate" Width="100" DisplayMemberBinding="{Binding GamesPlayed}"/>
-                    <GridViewColumn Header="Jocuri Câștigate" Width="120" DisplayMemberBinding="{Binding GamesWon}"/>
-                    <GridViewColumn Header="Rată de Câștig" Width="100">
+                    <GridViewColumn Header="User Name" Width="150" DisplayMemberBinding="{Binding Username}"/>
+                    <GridViewColumn Header="Played" Width="100" DisplayMemberBinding="{Binding GamesPlayed}"/>
+                    <GridViewColumn Header="Wins" Width="120" DisplayMemberBinding="{Binding GamesWon}"/>
+                    <GridViewColumn Header="WinRate" Width="100">
                         <GridViewColumn.CellTemplate>
                             <DataTemplate>
                                 <TextBlock>

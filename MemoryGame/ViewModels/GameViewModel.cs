@@ -12,26 +12,21 @@ using MemoryGame.Views;
 
 namespace MemoryGame.ViewModels
 {
-    public class GameViewModel : INotifyPropertyChanged
+    public class GameViewModel : ViewModelBase
     {
-        // Proprietăți pentru utilizator și joc
         private User _currentPlayer;
 
-        // Proprietăți pentru tipul de joc
         private bool _isStandardMode = true;
         private bool _isCustomMode = false;
 
-        // Proprietăți pentru joc custom
         private int _customRows = 4;
         private int _customColumns = 4;
         private int _playerTimeSeconds = 60;
 
-        // Proprietăți pentru categoria de imagini
         private bool _categoryOne = true;
         private bool _categoryTwo = false;
         private bool _categoryThree = false;
 
-        // Proprietăți publice
         public User CurrentPlayer
         {
             get => _currentPlayer;
@@ -45,7 +40,6 @@ namespace MemoryGame.ViewModels
         }
 
 
-        // Proprietăți pentru tipul de joc
         public bool IsStandardMode
         {
             get => _isStandardMode;
@@ -57,7 +51,6 @@ namespace MemoryGame.ViewModels
                     if (value)
                     {
                         IsCustomMode = false;
-                        // Resetăm valorile la cele standard
                         CustomRows = 4;
                         CustomColumns = 4;
                     }
@@ -120,17 +113,16 @@ namespace MemoryGame.ViewModels
             }
         }
 
-        // Proprietăți pentru joc custom
         public int CustomRows
         {
             get => _customRows;
             set
             {
-                if (value >= 2 && value <= 6) // Limitarea între 2 și 6
+                if (value >= 2 && value <= 6) 
                 {
                     _customRows = value;
                     OnPropertyChanged();
-                    // Verificăm dacă numărul total de carduri este par
+                    
                     ValidateCardCount();
                     OnPropertyChanged(nameof(IsValidCardCount));
                     OnPropertyChanged(nameof(CardCountErrorMessage));
@@ -143,11 +135,11 @@ namespace MemoryGame.ViewModels
             get => _customColumns;
             set
             {
-                if (value >= 2 && value <= 6) // Limitarea între 2 și 6
+                if (value >= 2 && value <= 6) 
                 {
                     _customColumns = value;
                     OnPropertyChanged();
-                    // Verificăm dacă numărul total de carduri este par
+
                     ValidateCardCount();
                     OnPropertyChanged(nameof(IsValidCardCount));
                     OnPropertyChanged(nameof(CardCountErrorMessage));
@@ -159,7 +151,7 @@ namespace MemoryGame.ViewModels
             get => _playerTimeSeconds;
             set
             {
-                if (value > 0) // Timpul trebuie să fie pozitiv
+                if (value > 0) 
                 {
                     _playerTimeSeconds = value;
                     OnPropertyChanged();
@@ -167,7 +159,6 @@ namespace MemoryGame.ViewModels
             }
         }
 
-        // Proprietăți pentru categoria de imagini
         public bool CategoryOne
         {
             get => _categoryOne;
@@ -223,7 +214,6 @@ namespace MemoryGame.ViewModels
         }
 
         
-        // Proprietăți calculate
         public string WinRateFormatted
         {
             get
@@ -244,7 +234,6 @@ namespace MemoryGame.ViewModels
             }
         }
 
-        // Comenzi
         public ICommand NewGameCommand { get; }
         public ICommand OpenGameCommand { get; }
         public ICommand SaveGameCommand { get; }
@@ -254,10 +243,8 @@ namespace MemoryGame.ViewModels
         public ICommand StartGameCommand { get; }
         public ICommand BackToLoginCommand { get; }
 
-        // Constructor
         public GameViewModel()
         {
-            // Inițializarea comenzilor
             NewGameCommand = new RelayCommand(_ => StartNewGame());
             OpenGameCommand = new RelayCommand(_ => OpenGame());
             SaveGameCommand = new RelayCommand(_ => SaveGame());
@@ -271,7 +258,6 @@ namespace MemoryGame.ViewModels
             BackToLoginCommand = new RelayCommand(_ => BackToLogin());
 
 
-            // Validăm configurația inițială
             ValidateCardCount();
         }
 
@@ -309,7 +295,6 @@ namespace MemoryGame.ViewModels
             }
         }
          
-        // Metodă pentru a reseta setările jocului
         private void ResetGameSettings()
         {
             IsStandardMode = true;
@@ -322,12 +307,10 @@ namespace MemoryGame.ViewModels
             CategoryThree = false;
         }
 
-        // Metoda pentru a deschide un joc salvat
         private void OpenGame()
         {
             try
             {
-                // Verificăm dacă utilizatorul curent este selectat
                 if (CurrentPlayer == null)
                 {
                     MessageBox.Show("Trebuie să selectați un utilizator înainte de a deschide un joc salvat.",
@@ -337,23 +320,19 @@ namespace MemoryGame.ViewModels
                     return;
                 }
 
-                // Deschidem dialogul personalizat pentru a alege un joc salvat, transmițând utilizatorul curent
                 var openGameDialog = new OpenGameDialog(CurrentPlayer);
 
                 if (openGameDialog.ShowDialog() == true && openGameDialog.SelectedGame != null)
                 {
                     var selectedGame = openGameDialog.SelectedGame;
 
-                    // Încărcăm jocul salvat - acum știm sigur că aparține utilizatorului curent
                     var gameBoardViewModel = GameBoardViewModel.LoadGame(selectedGame.FilePath);
 
                     if (gameBoardViewModel != null)
                     {
-                        // Deschide fereastra jocului
                         var gameBoardView = new GameBoardView(gameBoardViewModel);
                         gameBoardView.Show();
 
-                        // Închidem fereastra curentă
                         if (Application.Current.MainWindow is Window currentWindow)
                         {
                             Application.Current.MainWindow = gameBoardView;
@@ -372,7 +351,6 @@ namespace MemoryGame.ViewModels
         }
 
 
-        // Metoda pentru a salva jocul curent
         private void SaveGame()
         {
             MessageBox.Show("Nu există niciun joc în desfășurare pentru a fi salvat. " +
@@ -381,42 +359,33 @@ namespace MemoryGame.ViewModels
                           MessageBoxButton.OK, MessageBoxImage.Information);
         }
 
-        // Metodă pentru a verifica dacă configurația jocului este validă
         private bool IsConfigurationValid()
         {
-            // Verifică dacă avem un utilizator curent
             if (CurrentPlayer == null)
                 return false;
 
-            // Verifică configurația pentru joc custom
             if (IsCustomMode)
             {
-                // Verifică dacă dimensiunile sunt între 2 și 6
                 if (CustomRows < 2 || CustomRows > 6 || CustomColumns < 2 || CustomColumns > 6)
                     return false;
 
-                // Verifică dacă numărul total de cartonașe este par
                 if ((CustomRows * CustomColumns) % 2 != 0)
                     return false;
             }
 
-            // Verifică dacă timpul per jucător este valid (pentru ambele tipuri de joc)
             if (PlayerTimeSeconds <= 0)
                 return false;
 
-            // Verifică dacă este selectată o categorie
             if (!CategoryOne && !CategoryTwo && !CategoryThree)
                 return false;
 
             return true;
         }
 
-        // Metoda pentru a începe un joc nou
         private void StartNewGame()
         {
             try
             {
-                // Verificăm configurația
                 if (!IsConfigurationValid())
                 {
                     MessageBox.Show("Configurația jocului nu este validă. Vă rugăm verificați setările.",
@@ -426,26 +395,20 @@ namespace MemoryGame.ViewModels
                     return;
                 }
 
-                // Obținem categoria selectată
                 int selectedCategory = 1;
                 if (CategoryTwo) selectedCategory = 2;
                 if (CategoryThree) selectedCategory = 3;
 
-                // Obținem dimensiunile tablei de joc
                 int rows = IsStandardMode ? 4 : CustomRows;
                 int columns = IsStandardMode ? 4 : CustomColumns;
 
-                // Obținem timpul per jucător
                 int timePerPlayer = PlayerTimeSeconds;
 
-                // Creăm view model-ul pentru tabla de joc
                 var gameBoardViewModel = new GameBoardViewModel(CurrentPlayer, selectedCategory, rows, columns, timePerPlayer);
 
-                // Deschidem fereastra jocului
                 var gameBoardView = new GameBoardView(gameBoardViewModel);
                 gameBoardView.Show();
 
-                // Închidem fereastra curentă
                 if (Application.Current.MainWindow is Window currentWindow)
                 {
                     Application.Current.MainWindow = gameBoardView;
@@ -461,12 +424,10 @@ namespace MemoryGame.ViewModels
             }
         }
 
-        // Metoda pentru a începe jocul cu configurația selectată
         private void StartGame()
         {
             try
             {
-                // Verificăm configurația
                 if (!IsConfigurationValid())
                 {
                     MessageBox.Show("Configurația jocului nu este validă. Vă rugăm verificați setările.",
@@ -476,26 +437,20 @@ namespace MemoryGame.ViewModels
                     return;
                 }
 
-                // Obținem categoria selectată
                 int selectedCategory = 1;
                 if (CategoryTwo) selectedCategory = 2;
                 if (CategoryThree) selectedCategory = 3;
 
-                // Obținem dimensiunile tablei de joc
                 int rows = IsStandardMode ? 4 : CustomRows;
                 int columns = IsStandardMode ? 4 : CustomColumns;
 
-                // Obținem timpul per jucător
                 int timePerPlayer = PlayerTimeSeconds;
 
-                // Creăm view model-ul pentru tabla de joc
                 var gameBoardViewModel = new GameBoardViewModel(CurrentPlayer, selectedCategory, rows, columns, timePerPlayer);
 
-                // Deschidem fereastra jocului
                 var gameBoardView = new GameBoardView(gameBoardViewModel);
                 gameBoardView.Show();
 
-                // Închidem fereastra curentă
                 if (Application.Current.MainWindow is Window currentWindow)
                 {
                     Application.Current.MainWindow = gameBoardView;
@@ -511,21 +466,16 @@ namespace MemoryGame.ViewModels
             }
         }
 
-        // Metoda pentru a reveni la ecranul de login
         private void BackToLogin()
         {
             try
             {
-                // Creăm o nouă instanță a ferestrei de login
                 var loginView = new LoginView();
 
-                // Afișăm fereastra de login
                 loginView.Show();
 
-                // Închide fereastra curentă
                 if (Application.Current.MainWindow is GameView gameView)
                 {
-                    // Setăm fereastra de login ca MainWindow
                     Application.Current.MainWindow = loginView;
                     gameView.Close();
                 }
@@ -539,12 +489,6 @@ namespace MemoryGame.ViewModels
             }
         }
 
-        // Implementare INotifyPropertyChanged
-        public event PropertyChangedEventHandler PropertyChanged;
-
-        protected void OnPropertyChanged([CallerMemberName] string propertyName = null)
-        {
-            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
-        }
+       
     }
 }

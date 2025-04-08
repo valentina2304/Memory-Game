@@ -5,9 +5,7 @@
         Title="Open Saved Game" Height="400" Width="500"
         WindowStartupLocation="CenterOwner"
         Background="#FFD4C3F4">
-    <Window.Resources>
-        <converters:NullToBoolConverter x:Key="NullToBoolConverter" />
-    </Window.Resources>
+    
     <Grid Margin="10">
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>

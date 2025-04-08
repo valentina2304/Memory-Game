@@ -13,9 +13,7 @@
     <Window.Resources>
         <BooleanToVisibilityConverter x:Key="BoolToVisibilityConverter" />
         <converters:BoolToOpacityConverter x:Key="BoolToOpacityConverter" />
-        <converters:InverseBoolConverter x:Key="InverseBoolConverter" />
         <converters:IsImagePathConverter x:Key="IsImagePathConverter" />
-        <converters:BoolToVisibilityMultiConverter x:Key="BoolToVisibilityMultiConverter" />
 
         <DataTemplate x:Key="CardTemplate">
             <Button Margin="2" 
@@ -23,11 +21,10 @@
             CommandParameter="{Binding}" 
             Opacity="{Binding IsMatched, Converter={StaticResource BoolToOpacityConverter}}">
                 <Grid Width="120" Height="120">
-                    <!-- Aici am mărit dimensiunile -->
                     <Border Background="LavenderBlush" 
                     BorderBrush="#FF8867C6"
                     BorderThickness="2"
-                    Visibility="{Binding IsFlipped, Converter={StaticResource BoolToVisibilityMultiConverter}, ConverterParameter=Invert}">
+                    Visibility="{Binding IsFlipped, Converter={StaticResource BoolToOpacityConverter}, ConverterParameter=Invert}">
                         <TextBlock Text="♣"
                            FontSize="36"
                            Foreground="#FF8867C6"

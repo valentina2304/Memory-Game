@@ -4,15 +4,15 @@
 winexe
 C#
 .cs
-C:\Users\40720\OneDrive\Desktop\FACULTATE\AN II\SEM II\MemoryGame\obj\Debug\net8.0-windows\
+C:\Users\40720\OneDrive\Desktop\FACULTATE\AN II\SEM II\Medii Vizuale de Programare\Memory-Game\MemoryGame\obj\Debug\net8.0-windows\
 MemoryGame
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-C:\Users\40720\OneDrive\Desktop\FACULTATE\AN II\SEM II\MemoryGame\App.xaml
+C:\Users\40720\OneDrive\Desktop\FACULTATE\AN II\SEM II\Medii Vizuale de Programare\Memory-Game\MemoryGame\App.xaml
 7-1138510549
 
-28-2093693450
+27-1759422139
 1981839832580
 Views\AboutView.xaml;Views\GameBoardView.xaml;Views\GameView.xaml;Views\LoginView.xaml;Views\MainWindow.xaml;Views\OpenGameDialog.xaml;Views\StatisticsView.xaml;
 

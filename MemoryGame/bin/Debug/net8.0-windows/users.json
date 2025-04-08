@@ -28,5 +28,17 @@
     "ImagePath": "Resources\\Avatars\\Avatar4.png",
     "GamesPlayed": 0,
     "GamesWon": 0
+  },
+  {
+    "Username": "Alina",
+    "ImagePath": "Resources\\Avatars\\Avatar4.png",
+    "GamesPlayed": 0,
+    "GamesWon": 0
+  },
+  {
+    "Username": "karina",
+    "ImagePath": "Resources\\Avatars\\Avatar4.png",
+    "GamesPlayed": 1,
+    "GamesWon": 0
   }
 ]

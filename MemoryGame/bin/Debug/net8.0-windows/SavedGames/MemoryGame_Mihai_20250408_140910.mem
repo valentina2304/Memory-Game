@@ -1,0 +1,108 @@
+{
+  "PlayerName": "Mihai",
+  "Category": 1,
+  "Rows": 4,
+  "Columns": 3,
+  "TotalTime": 60,
+  "RemainingTime": 38,
+  "SavedAt": "2025-04-08T14:09:10.135194+03:00",
+  "IsCompleted": false,
+  "Cards": [
+    {
+      "Id": 5,
+      "Value": 2,
+      "ImagePath": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\bin\\Debug\\net8.0-windows\\Resources\\Animals\\Animal11.png",
+      "IsFlipped": false,
+      "IsMatched": false,
+      "Position": 0
+    },
+    {
+      "Id": 3,
+      "Value": 1,
+      "ImagePath": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\bin\\Debug\\net8.0-windows\\Resources\\Animals\\Animal10.png",
+      "IsFlipped": false,
+      "IsMatched": false,
+      "Position": 1
+    },
+    {
+      "Id": 0,
+      "Value": 0,
+      "ImagePath": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\bin\\Debug\\net8.0-windows\\Resources\\Animals\\Animal1.png",
+      "IsFlipped": false,
+      "IsMatched": false,
+      "Position": 2
+    },
+    {
+      "Id": 4,
+      "Value": 2,
+      "ImagePath": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\bin\\Debug\\net8.0-windows\\Resources\\Animals\\Animal11.png",
+      "IsFlipped": false,
+      "IsMatched": false,
+      "Position": 3
+    },
+    {
+      "Id": 10,
+      "Value": 5,
+      "ImagePath": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\bin\\Debug\\net8.0-windows\\Resources\\Animals\\Animal14.png",
+      "IsFlipped": false,
+      "IsMatched": false,
+      "Position": 4
+    },
+    {
+      "Id": 1,
+      "Value": 0,
+      "ImagePath": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\bin\\Debug\\net8.0-windows\\Resources\\Animals\\Animal1.png",
+      "IsFlipped": false,
+      "IsMatched": false,
+      "Position": 5
+    },
+    {
+      "Id": 7,
+      "Value": 3,
+      "ImagePath": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\bin\\Debug\\net8.0-windows\\Resources\\Animals\\Animal12.png",
+      "IsFlipped": true,
+      "IsMatched": true,
+      "Position": 6
+    },
+    {
+      "Id": 2,
+      "Value": 1,
+      "ImagePath": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\bin\\Debug\\net8.0-windows\\Resources\\Animals\\Animal10.png",
+      "IsFlipped": false,
+      "IsMatched": false,
+      "Position": 7
+    },
+    {
+      "Id": 6,
+      "Value": 3,
+      "ImagePath": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\bin\\Debug\\net8.0-windows\\Resources\\Animals\\Animal12.png",
+      "IsFlipped": true,
+      "IsMatched": true,
+      "Position": 8
+    },
+    {
+      "Id": 9,
+      "Value": 4,
+      "ImagePath": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\bin\\Debug\\net8.0-windows\\Resources\\Animals\\Animal13.png",
+      "IsFlipped": false,
+      "IsMatched": false,
+      "Position": 9
+    },
+    {
+      "Id": 8,
+      "Value": 4,
+      "ImagePath": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\bin\\Debug\\net8.0-windows\\Resources\\Animals\\Animal13.png",
+      "IsFlipped": false,
+      "IsMatched": false,
+      "Position": 10
+    },
+    {
+      "Id": 11,
+      "Value": 5,
+      "ImagePath": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\bin\\Debug\\net8.0-windows\\Resources\\Animals\\Animal14.png",
+      "IsFlipped": false,
+      "IsMatched": false,
+      "Position": 11
+    }
+  ]
+}

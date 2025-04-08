@@ -3,80 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\viewmodels\\statisticsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:viewmodels\\statisticsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\viewmodels\\opengamedialogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:viewmodels\\opengamedialogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\viewmodels\\gameviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:viewmodels\\gameviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\viewmodels\\gameboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:viewmodels\\gameboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\views\\gameboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:views\\gameboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\viewmodels\\aboutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:viewmodels\\aboutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\converters\\booltoopacityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:converters\\booltoopacityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\converters\\isimagepathconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:converters\\isimagepathconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\converters\\inversebooltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:converters\\inversebooltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\views\\gameview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:views\\gameview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\views\\statisticsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:views\\statisticsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\views\\opengamedialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:views\\opengamedialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\views\\aboutview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:views\\aboutview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -95,67 +27,52 @@
       "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:models\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\views\\gameview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:views\\gameview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\converters\\isimagepathconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:converters\\isimagepathconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\converters\\inversebooltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:converters\\inversebooltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\converters\\booltoopacityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:converters\\booltoopacityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\bin\\Debug\\net8.0-windows\\MemoryGame.runtimeconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\net8.0-windows\\MemoryGame.runtimeconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\views\\gameboardview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:views\\gameboardview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\viewmodels\\statisticsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:viewmodels\\statisticsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\views\\opengamedialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:views\\opengamedialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\viewmodels\\opengamedialogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:viewmodels\\opengamedialogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\views\\aboutview.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:views\\aboutview.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\views\\aboutview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:views\\aboutview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\views\\gameview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:views\\gameview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\views\\statisticsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:views\\statisticsview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\views\\opengamedialog.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:views\\opengamedialog.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\views\\gameboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:views\\gameboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\views\\gameboardview.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:views\\gameboardview.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\views\\gameview.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:views\\gameview.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\views\\loginview.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:views\\loginview.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\palat\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|c:\\users\\40720\\onedrive\\desktop\\facultate\\an ii\\sem ii\\medii vizuale de programare\\memory-game\\memorygame\\viewmodels\\gameviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBA8D247-F0FA-41D7-9B65-365BEAAFC437}|MemoryGame.csproj|solutionrelative:viewmodels\\gameviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -165,20 +82,79 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:59:02.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:58:48.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Models\\GameState.cs",
+              "RelativeDocumentMoniker": "Models\\GameState.cs",
+              "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Models\\GameState.cs",
+              "RelativeToolTip": "Models\\GameState.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAA4wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:58:35.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Models\\Card.cs",
+              "RelativeDocumentMoniker": "Models\\Card.cs",
+              "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Models\\Card.cs",
+              "RelativeToolTip": "Models\\Card.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:58:27.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "IsImagePathConverter.cs",
               "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Converters\\IsImagePathConverter.cs",
               "RelativeDocumentMoniker": "Converters\\IsImagePathConverter.cs",
               "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Converters\\IsImagePathConverter.cs",
               "RelativeToolTip": "Converters\\IsImagePathConverter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T10:07:53.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T12:57:37.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InverseBoolToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Converters\\InverseBoolToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "Converters\\InverseBoolToVisibilityConverter.cs",
+              "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Converters\\InverseBoolToVisibilityConverter.cs",
+              "RelativeToolTip": "Converters\\InverseBoolToVisibilityConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:57:34.975Z"
             },
             {
               "$type": "Document",
@@ -188,457 +164,139 @@
               "RelativeDocumentMoniker": "Converters\\BoolToOpacityConverter.cs",
               "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Converters\\BoolToOpacityConverter.cs",
               "RelativeToolTip": "Converters\\BoolToOpacityConverter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T10:07:00.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T12:57:14.921Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\App.xaml",
-              "RelativeDocumentMoniker": "App.xaml",
-              "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\App.xaml",
-              "RelativeToolTip": "App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-08T10:05:11.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "InverseBoolToVisibilityConverter.cs",
-              "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Converters\\InverseBoolToVisibilityConverter.cs",
-              "RelativeDocumentMoniker": "Converters\\InverseBoolToVisibilityConverter.cs",
-              "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Converters\\InverseBoolToVisibilityConverter.cs",
-              "RelativeToolTip": "Converters\\InverseBoolToVisibilityConverter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T10:43:15.674Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GameBoardView.xaml",
-              "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Views\\GameBoardView.xaml",
-              "RelativeDocumentMoniker": "Views\\GameBoardView.xaml",
-              "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Views\\GameBoardView.xaml",
-              "RelativeToolTip": "Views\\GameBoardView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-03T11:32:00.504Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "OpenGameDialog.xaml",
-              "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Views\\OpenGameDialog.xaml",
-              "RelativeDocumentMoniker": "Views\\OpenGameDialog.xaml",
-              "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Views\\OpenGameDialog.xaml",
-              "RelativeToolTip": "Views\\OpenGameDialog.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-03T11:20:50.149Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "StatisticsView.xaml",
-              "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Views\\StatisticsView.xaml",
-              "RelativeDocumentMoniker": "Views\\StatisticsView.xaml",
-              "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Views\\StatisticsView.xaml",
-              "RelativeToolTip": "Views\\StatisticsView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-03T17:31:41.748Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StatisticsViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\ViewModels\\StatisticsViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\StatisticsViewModel.cs",
-              "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\ViewModels\\StatisticsViewModel.cs",
-              "RelativeToolTip": "ViewModels\\StatisticsViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T17:32:32.566Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "GameView.xaml",
-              "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Views\\GameView.xaml",
-              "RelativeDocumentMoniker": "Views\\GameView.xaml",
-              "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Views\\GameView.xaml",
-              "RelativeToolTip": "Views\\GameView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-02T14:32:07.63Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 9,
               "Title": "RelayCommand.cs",
               "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Commands\\RelayCommand.cs",
               "RelativeDocumentMoniker": "Commands\\RelayCommand.cs",
               "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Commands\\RelayCommand.cs",
               "RelativeToolTip": "Commands\\RelayCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T15:01:34.412Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T12:57:11.654Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AboutView.xaml",
-              "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Views\\AboutView.xaml",
-              "RelativeDocumentMoniker": "Views\\AboutView.xaml",
-              "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Views\\AboutView.xaml",
-              "RelativeToolTip": "Views\\AboutView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-04T20:34:41.776Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Views\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Views\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Views\\MainWindow.xaml",
-              "RelativeToolTip": "Views\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-29T14:12:44.606Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "LoginView.xaml",
-              "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Views\\LoginView.xaml",
-              "RelativeDocumentMoniker": "Views\\LoginView.xaml",
-              "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Views\\LoginView.xaml",
-              "RelativeToolTip": "Views\\LoginView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-29T23:33:48.651Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Card.cs",
-              "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Models\\Card.cs",
-              "RelativeDocumentMoniker": "Models\\Card.cs",
-              "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Models\\Card.cs",
-              "RelativeToolTip": "Models\\Card.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAkwA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T21:22:12.916Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\ViewModels\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
-              "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\ViewModels\\LoginViewModel.cs",
-              "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEBAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T15:02:50.893Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GameViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\ViewModels\\GameViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\GameViewModel.cs",
-              "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\ViewModels\\GameViewModel.cs",
-              "RelativeToolTip": "ViewModels\\GameViewModel.cs",
-              "ViewState": "AgIAAO0BAAAAAAAAAAAAAB0AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T13:27:44.215Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GameBoardViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\ViewModels\\GameBoardViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\GameBoardViewModel.cs",
-              "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\ViewModels\\GameBoardViewModel.cs",
-              "RelativeToolTip": "ViewModels\\GameBoardViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI8AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T21:22:59.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AboutViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\ViewModels\\AboutViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\AboutViewModel.cs",
-              "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\ViewModels\\AboutViewModel.cs",
-              "RelativeToolTip": "ViewModels\\AboutViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T17:46:33.941Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "ViewModelBase.cs",
               "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\ViewModels\\ViewModelBase.cs",
               "RelativeDocumentMoniker": "ViewModels\\ViewModelBase.cs",
               "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\ViewModels\\ViewModelBase.cs",
               "RelativeToolTip": "ViewModels\\ViewModelBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T21:04:58.173Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-08T12:14:07.804Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "GameState.cs",
-              "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Models\\GameState.cs",
-              "RelativeDocumentMoniker": "Models\\GameState.cs",
-              "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Models\\GameState.cs",
-              "RelativeToolTip": "Models\\GameState.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAswCgAAAAmAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "StatisticsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\ViewModels\\StatisticsViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\StatisticsViewModel.cs",
+              "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\ViewModels\\StatisticsViewModel.cs",
+              "RelativeToolTip": "ViewModels\\StatisticsViewModel.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwBIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T21:22:35.129Z"
+              "WhenOpened": "2025-04-08T12:10:09.335Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACwAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T14:58:39.378Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "Services\\UserService.cs",
-              "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Services\\UserService.cs",
-              "RelativeToolTip": "Services\\UserService.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T14:59:56.317Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "OpenGameDialogViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\ViewModels\\OpenGameDialogViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\OpenGameDialogViewModel.cs",
-              "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\ViewModels\\OpenGameDialogViewModel.cs",
-              "RelativeToolTip": "ViewModels\\OpenGameDialogViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T17:11:06.987Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "GameView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Views\\GameView.xaml.cs",
-              "RelativeDocumentMoniker": "Views\\GameView.xaml.cs",
-              "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Views\\GameView.xaml.cs",
-              "RelativeToolTip": "Views\\GameView.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T13:26:11.156Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\App.xaml.cs",
-              "RelativeDocumentMoniker": "App.xaml.cs",
-              "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\App.xaml.cs",
-              "RelativeToolTip": "App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T14:53:28.422Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "LoginView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Views\\LoginView.xaml.cs",
-              "RelativeDocumentMoniker": "Views\\LoginView.xaml.cs",
-              "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Views\\LoginView.xaml.cs",
-              "RelativeToolTip": "Views\\LoginView.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAjwBEAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T15:06:54.449Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "MemoryGame.runtimeconfig.json",
-              "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\bin\\Debug\\net8.0-windows\\MemoryGame.runtimeconfig.json",
-              "RelativeDocumentMoniker": "bin\\Debug\\net8.0-windows\\MemoryGame.runtimeconfig.json",
-              "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\bin\\Debug\\net8.0-windows\\MemoryGame.runtimeconfig.json",
-              "RelativeToolTip": "bin\\Debug\\net8.0-windows\\MemoryGame.runtimeconfig.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-04T20:37:29.167Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "GameBoardView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Views\\GameBoardView.xaml.cs",
-              "RelativeDocumentMoniker": "Views\\GameBoardView.xaml.cs",
-              "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Views\\GameBoardView.xaml.cs",
-              "RelativeToolTip": "Views\\GameBoardView.xaml.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAwwCUAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T21:24:23.083Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "OpenGameDialog.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Views\\OpenGameDialog.xaml.cs",
-              "RelativeDocumentMoniker": "Views\\OpenGameDialog.xaml.cs",
-              "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Views\\OpenGameDialog.xaml.cs",
-              "RelativeToolTip": "Views\\OpenGameDialog.xaml.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T09:13:06.602Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "AboutView.xaml",
-              "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Views\\AboutView.xaml",
-              "RelativeDocumentMoniker": "Views\\AboutView.xaml",
-              "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Views\\AboutView.xaml",
-              "RelativeToolTip": "Views\\AboutView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-03T21:58:50.271Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "AboutView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Views\\AboutView.xaml.cs",
-              "RelativeDocumentMoniker": "Views\\AboutView.xaml.cs",
-              "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Views\\AboutView.xaml.cs",
-              "RelativeToolTip": "Views\\AboutView.xaml.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAmwCgAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T17:46:11.628Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "StatisticsView.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Views\\StatisticsView.xaml.cs",
-              "RelativeDocumentMoniker": "Views\\StatisticsView.xaml.cs",
-              "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Views\\StatisticsView.xaml.cs",
-              "RelativeToolTip": "Views\\StatisticsView.xaml.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T17:32:09.002Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "OpenGameDialog.xaml",
-              "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Views\\OpenGameDialog.xaml",
-              "RelativeDocumentMoniker": "Views\\OpenGameDialog.xaml",
-              "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Views\\OpenGameDialog.xaml",
-              "RelativeToolTip": "Views\\OpenGameDialog.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-03T09:17:02.44Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "GameBoardView.xaml",
-              "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Views\\GameBoardView.xaml",
-              "RelativeDocumentMoniker": "Views\\GameBoardView.xaml",
-              "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Views\\GameBoardView.xaml",
-              "RelativeToolTip": "Views\\GameBoardView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-02T21:52:30.064Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 13,
               "Title": "GameView.xaml",
               "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Views\\GameView.xaml",
               "RelativeDocumentMoniker": "Views\\GameView.xaml",
               "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Views\\GameView.xaml",
               "RelativeToolTip": "Views\\GameView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-02T13:30:46.971Z"
+              "WhenOpened": "2025-04-08T12:10:01.236Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Views\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "Views\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Views\\MainWindow.xaml.cs",
-              "RelativeToolTip": "Views\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T14:12:41.501Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\AssemblyInfo.cs",
-              "RelativeToolTip": "AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T23:33:35.128Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 14,
               "Title": "LoginView.xaml",
               "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Views\\LoginView.xaml",
               "RelativeDocumentMoniker": "Views\\LoginView.xaml",
               "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Views\\LoginView.xaml",
               "RelativeToolTip": "Views\\LoginView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-03-29T15:21:39.101Z"
+              "WhenOpened": "2025-04-08T12:10:00.556Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "ResourcePart.cs",
-              "DocumentMoniker": "C:\\Users\\palat\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\palat\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
-              "ToolTip": "C:\\Users\\palat\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [Read Only]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\palat\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [Read Only]",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAWwCcAAAAEAAAAAQAAAA==",
+              "DocumentIndex": 15,
+              "Title": "GameBoardView.xaml",
+              "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Views\\GameBoardView.xaml",
+              "RelativeDocumentMoniker": "Views\\GameBoardView.xaml",
+              "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\Views\\GameBoardView.xaml",
+              "RelativeToolTip": "Views\\GameBoardView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-08T11:56:09.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-29T14:49:16.389Z",
-              "EditorCaption": " [Read Only]"
+              "WhenOpened": "2025-04-08T11:53:13.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OpenGameDialogViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\ViewModels\\OpenGameDialogViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\OpenGameDialogViewModel.cs",
+              "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\ViewModels\\OpenGameDialogViewModel.cs",
+              "RelativeToolTip": "ViewModels\\OpenGameDialogViewModel.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:30:06.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GameViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\ViewModels\\GameViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\GameViewModel.cs",
+              "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\ViewModels\\GameViewModel.cs",
+              "RelativeToolTip": "ViewModels\\GameViewModel.cs",
+              "ViewState": "AgIAAN0BAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:27:42.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameBoardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\ViewModels\\GameBoardViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\GameBoardViewModel.cs",
+              "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\ViewModels\\GameBoardViewModel.cs",
+              "RelativeToolTip": "ViewModels\\GameBoardViewModel.cs",
+              "ViewState": "AgIAAD8BAAAAAAAAAAAzwJQAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:19:46.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AboutViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\ViewModels\\AboutViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AboutViewModel.cs",
+              "ToolTip": "C:\\Users\\40720\\OneDrive\\Desktop\\FACULTATE\\AN II\\SEM II\\Medii Vizuale de Programare\\Memory-Game\\MemoryGame\\ViewModels\\AboutViewModel.cs",
+              "RelativeToolTip": "ViewModels\\AboutViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:19:33.227Z"
             }
           ]
         }
